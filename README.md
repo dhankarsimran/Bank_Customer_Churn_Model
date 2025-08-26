@@ -1,6 +1,8 @@
 # Bank_Customer_Churn_Model
 This project predicts whether a bank customer will churn (exit) or not, using machine learning models.
 
+[Open Notebook in Colab](https://colab.research.google.com/github/dhankarsimran/Bank_Customer_Churn_Model/blob/main/Bank_Customer_Churn_Model.ipynb)
+
 ## 📌 Project Overview
 
 Customer churn is one of the biggest challenges for banks and financial institutions. This project predicts whether a bank customer is likely to leave (churn) based on their demographic and account details.
