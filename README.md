@@ -1,13 +1,13 @@
 # Bank_Customer_Churn_Model
 This project predicts whether a bank customer will churn (exit) or not, using machine learning models.
 
-📌 ##Project Overview
+📌 ## Project Overview
 
 Customer churn is one of the biggest challenges for banks and financial institutions. This project predicts whether a bank customer is likely to leave (churn) based on their demographic and account details.
 
 The goal is to build machine learning models that help banks identify customers at risk of leaving, so they can take proactive retention steps.
 
-🚀 ###Key Features
+🚀 ### Key Features
 
 ✅ Data preprocessing (handling categorical & numerical variables)
 
