@@ -29,8 +29,8 @@ The goal is to build machine learning models that help banks identify customers 
 
 | Model               | Accuracy | Precision | Recall | F1 Score | ROC-AUC |
 | ------------------- | -------- | --------- | ------ | -------- | ------- |
-| Logistic Regression | 80.8%    | 0.59      | 0.18   | 0.28     | 0.77    |
-| Gradient Boosting   | 86.7%    | 0.76      | 0.49   | 0.60     | 0.88    |
+| Logistic Regression | 80.8%    | 0.59      | 0.18   | 0.72     | 0.77    |
+| Gradient Boosting   | 88.7%    | 0.76      | 0.49   | 0.86     | 0.88    |
 
 👉 Gradient Boosting outperforms Logistic Regression with higher recall, precision, and overall AUC, making it the preferred model for churn prediction.
 
